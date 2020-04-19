@@ -1,0 +1,2 @@
+requests_html==0.10.0
+pandas==0.20.3
