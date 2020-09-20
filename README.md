@@ -7,7 +7,7 @@
 #### 快速使用
 
 1. 安装 `python 3`
-2. 使用 `pip -r requirement.txt` 安装 依赖 
+2. 使用 `pip install -r requirements.txt` 安装 依赖 
 3. 使用 `python youshu_top_books.py` 运行
 
 #### TODO
